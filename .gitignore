@@ -117,3 +117,7 @@ external/judy-1.0.5/tool/.deps/
 external/judy-1.0.5/tool/Makefile
 external/judy-1.0.5/tool/jhton
 
+external/libff/lex.fct_pddl.c
+external/libff/lex.ops_pddl.c
+external/libff/scan-fct_pddl.tab.c
+external/libff/scan-ops_pddl.tab.c
